@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eriolifran
-- 👀 I’m interested in db
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data base
+- 🌱 I’m currently learning SQL databases,
+like myslq, SQL server.
+- 📫 How to reach me ericaoliveirafrancisco22@gmail.com
 
 <!---
 eriolifran/eriolifran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
